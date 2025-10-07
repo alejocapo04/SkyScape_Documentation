@@ -1,6 +1,6 @@
-/docs/SkyScape_Documentation.pdf
+/docs/*.pdf
   Content-Type: application/pdf
-  Content-Disposition: inline; filename="SkyScape_Documentation.pdf"
+  Content-Disposition: inline
   Accept-Ranges: bytes
   Cache-Control: public, max-age=31536000, immutable
   X-Content-Type-Options: nosniff
